@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brunswickbulls/static/css/main.073c9b0a.css",
+    "main.js": "/brunswickbulls/static/js/main.9b7def69.js",
+    "static/js/787.a544f21a.chunk.js": "/brunswickbulls/static/js/787.a544f21a.chunk.js",
+    "static/media/logo.svg": "/brunswickbulls/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brunswickbulls/index.html",
+    "main.073c9b0a.css.map": "/brunswickbulls/static/css/main.073c9b0a.css.map",
+    "main.9b7def69.js.map": "/brunswickbulls/static/js/main.9b7def69.js.map",
+    "787.a544f21a.chunk.js.map": "/brunswickbulls/static/js/787.a544f21a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b7def69.js"
+  ]
+}
